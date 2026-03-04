@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install @nestjs/config @nestjs/jwt @nestjs/passport @nestjs/typeorm @nestjs/event-emitter typeorm pg passport passport-jwt passport-google-oauth20 bcrypt class-validator class-transformer)",
+      "Bash(npm install -D @types/passport-jwt @types/passport-google-oauth20 @types/bcrypt)",
+      "Bash(npm install @nestjs/swagger)"
+    ]
+  }
+}
